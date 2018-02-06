@@ -21,7 +21,7 @@ def printer
 batch_badge_creator(speakers).each do |value|
   puts value
 end
-assign_rooms(speakers).each. do |value|
+assign_rooms(speakers).each do |value|
   puts value
 end
 end
