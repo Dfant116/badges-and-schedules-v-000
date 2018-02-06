@@ -24,3 +24,4 @@ end
 assign_rooms(speakers).each. do |value|
   puts value
 end
+end
